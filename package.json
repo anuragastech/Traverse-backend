@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -14,5 +15,26 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+=======
+  "name": "traversebackend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://anuragastech:REMOVED_SECRET@github.com/anuragastech/Traverse-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragastech/Traverse-backend/issues"
+  },
+  "homepage": "https://github.com/anuragastech/Traverse-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+>>>>>>> a0ce9b4 (updated)
   }
 }
