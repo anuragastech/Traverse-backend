@@ -1,23 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-scripts": "0.9.5"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-=======
   "name": "traversebackend",
   "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,12 +13,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anuragastech/Traverse-backend/issues"
+    "url": "https://github.com/anuragastech/Traverse-frontend/issues"
   },
-  "homepage": "https://github.com/anuragastech/Traverse-backend#readme",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.2"
->>>>>>> a0ce9b4 (updated)
-  }
+  "homepage": "https://github.com/anuragastech/Traverse-frontend#readme"
 }
